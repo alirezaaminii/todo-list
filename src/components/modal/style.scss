@@ -1,0 +1,11 @@
+@import "../../styles/variables";
+
+button {
+  min-width: 112px;
+  width: auto;
+  height: 52px;
+  border-radius: 10px;
+  background-color: $Blue;
+  border: 0;
+  color:white;
+}

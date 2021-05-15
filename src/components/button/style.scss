@@ -1,0 +1,16 @@
+@import "../../styles/variables";
+
+footer {
+  width: 100vw;
+  height: 2rem;
+  background-color: $DarkBlue;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  p {
+    color: white;
+    text-align: center;
+  }
+}
